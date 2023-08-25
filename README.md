@@ -13,5 +13,5 @@ A browser extension that provides real-time updates and information about IPL ma
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/pahaljain/iplExtension-app.git
+```bash
+git clone https://github.com/pahaljain/iplExtension-app.git
