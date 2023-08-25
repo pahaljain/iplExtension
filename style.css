@@ -1,0 +1,21 @@
+body{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(198, 228, 237);
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    margin: auto 10px;
+    font-size: 22px;
+    border-radius: 6px;
+    border: 1px solid rgb(51, 47, 47);
+    color: rgb(60, 60, 255);
+    padding: 10px;
+}
+
+li{
+    list-style: none;
+    padding-bottom: 4px;
+} 
